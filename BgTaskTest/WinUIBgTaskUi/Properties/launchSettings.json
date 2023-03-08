@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUIBgTaskUi (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUIBgTaskUi (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
